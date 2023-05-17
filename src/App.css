@@ -17,11 +17,18 @@
   justify-content: space-evenly;
 
   width: 200px;
-  height: 300px;
+  height: 200px;
 
   border: 2px solid white;
   border-radius: 10px;
 
   background-color: antiquewhite;
   color: black;
+
+  margin-bottom: 5px;
+}
+
+.Box-container {
+  display: flex;
+  flex-wrap: wrap;
 }
